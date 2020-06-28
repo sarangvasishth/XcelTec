@@ -1,11 +1,11 @@
-git clone https://github.com/sarangvasishth/XcelTec.git
-
 to start backend:
 
-cd XcelTec
+1. git clone https://github.com/sarangvasishth/XcelTec.git
 
-npm install
+2. cd XcelTec
 
-place config.env in config folder
+3. npm install
 
-npm start
+4. place config.env in config folder
+
+5. npm start
